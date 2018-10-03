@@ -1,3 +1,5 @@
+# Copyright 2018 - Craig Satchell
+
 from django.http import HttpResponse, HttpResponseRedirect
 from django.shortcuts import render
 
